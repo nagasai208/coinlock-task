@@ -27,6 +27,7 @@
 }
 .current-value {
     color:green;
+    font-size:24px;
 }
 .dashbord-section {
     display: flex;
@@ -57,4 +58,7 @@
 }
 .jaggy {
     margin:3px;
+}
+.bell-icon  {
+    margin:5px;
 }
